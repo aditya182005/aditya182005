@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">I am a passionate and curious learner with a strong interest in the transformative power of Artificial Intelligence and Machine Learning. I am currently exploring how these technologies can be integrated with web development to create impactful and engaging digital products.</h3>
+<h3 align="left">I am a passionate and curious learner with a strong interest in the transformative power of Artificial Intelligence and Machine Learning. I am currently exploring how these technologies can be integrated with web development to create impactful and engaging digital products.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aditya182005&label=Profile%20views&color=3399ff&style=flat" />
