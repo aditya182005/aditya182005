@@ -35,6 +35,4 @@
 
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya182005&theme=tokyonight" alt="aditya182005" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya182005&theme=tokyonight" alt="aditya182005" />
