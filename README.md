@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mongodb,react,nodejs,express,angular" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css" />
 
 
 
